@@ -1,6 +1,6 @@
 # About Me:
 Frontend and mobile app projects involving React.js, React Native, and modern UI/UX.<br>Improving app performance, scalable architecture, and best practices for production-ready apps.<br>Web development, React.js, React Native, and building clean, responsive user interfaces.<br>I enjoy turning complex UI ideas into simple, smooth user experiences...            
-        
+                 
              
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aradhykhare01/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aradhykhare@gmail.com)             
